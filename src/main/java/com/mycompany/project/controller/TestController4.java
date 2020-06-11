@@ -21,4 +21,9 @@ public class TestController4 {
 	{
 
 	}
+	
+	public void method6()
+	{
+
+	}
 }
