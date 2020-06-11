@@ -22,7 +22,13 @@ public class TestController4 {
 
 	}
 	
+
 	public void method6()
+	{
+		
+	}
+	public void method5()
+
 	{
 
 	}
