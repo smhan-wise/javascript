@@ -23,7 +23,7 @@ public class HomeController {
 	
 	@RequestMapping("/main.do")
 	public String main(){
-		LOGGER.info("main.do 실행");
+		LOGGER.info("main.do 실행11");
 	
 		return "home/main";
 	}
